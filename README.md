@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-In my freetime I like to read, swim, walk long distances, play offline games, listen to podcast, and road cycle. 
+In my free time I like to read, swim, walk long distances, play offline games, listen to podcasts, and road cycle. 
 
 My main interests are user experience and privacy.
 
 I have a website: https://5am.is
-
-Follow me on Mastodon: <a rel="me" href="https://nerdculture.de/@5amdotis">@5amdotis@nerdculture.de</a>.
