@@ -4,4 +4,6 @@ In my freetime I like to read, swim, walk long distances, play offline games, li
 
 My main interests are user experience and privacy.
 
-And I have a website: https://5am.is
+I have a website: https://5am.is
+
+Follow me on Mastodon: <a rel="me" href="https://nerdculture.de/@5amdotis">@5amdotis@nerdculture.de</a>.
